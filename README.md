@@ -1,1 +1,1 @@
-# hexlet-vibecoding
+hexlet-vibecoding
