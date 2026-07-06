@@ -57,6 +57,18 @@ body {
   margin-top: 1.25rem;
 }
 
+.yandex-form {
+  padding: 0;
+  overflow: hidden;
+}
+
+.yandex-form__iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border: none;
+}
+
 .field {
   display: flex;
   flex-direction: column;
